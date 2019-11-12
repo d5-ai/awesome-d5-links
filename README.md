@@ -11,3 +11,6 @@ This repo is a collection of links, projects and services that somehow are relev
 ## Data Quality
 - [Great Expectations](https://github.com/great-expectations/great_expectations) Always know what to expect from your data.
 
+## Ethereum Development
+- [Brownie](https://eth-brownie.readthedocs.io/en/latest/) A Python framework for Ethereum smart contract testing, interaction and deployment.
+- [Ethereum Studio](https://studio.ethereum.org/) A tool for developers who want to learn about building on Ethereum.

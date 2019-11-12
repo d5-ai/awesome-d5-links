@@ -2,7 +2,7 @@
 This repo is a collection of links, projects and services that somehow are relevant/useful to D5 members
 
 # ML-AI
-- [snorkel.org](https://www.snorkel.org/) Automatically abel your data when you only have unlabeled data.
+- [snorkel.org](https://www.snorkel.org/) Automatically label your data when you only have unlabeled data.
 
 # API
 ## Billing

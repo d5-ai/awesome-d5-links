@@ -5,5 +5,5 @@ This repo is a collection of links, projects and services that somehow are relev
 - [snorkel.org](https://www.snorkel.org/) Automatically abel your data when you only have unlabeled data.
 
 # API
-# Billing
+## Billing
 - [Billing Fox](https://billingfox.com/) A Powerful, Yet Simple Usage Based Billing API Platform for Busy Developers.

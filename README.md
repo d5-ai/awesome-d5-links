@@ -5,6 +5,7 @@ This repo is a collection of links, projects and services that somehow are relev
 - [snorkel.org](https://www.snorkel.org/) Automatically label your data when you only have unlabeled data.
 
 ## API
+- [Swagger](https://swagger.io/) Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset
 ### Billing
 - [Billing Fox](https://billingfox.com/) A Powerful, Yet Simple Usage Based Billing API Platform for Busy Developers.
 

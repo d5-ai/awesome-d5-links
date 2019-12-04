@@ -3,6 +3,7 @@ This repo is a collection of links, projects and services that somehow are relev
 
 ## ML-AI
 - [snorkel.org](https://www.snorkel.org/) Automatically label your data when you only have unlabeled data.
+- [Metaflow](https://metaflow.org/)
 
 ## API
 - [Swagger](https://swagger.io/) Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset

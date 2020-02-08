@@ -23,6 +23,7 @@ This repo is a collection of links, projects and services that somehow are relev
 ## Ethereum Development
 - [Brownie](https://eth-brownie.readthedocs.io/en/latest/) A Python framework for Ethereum smart contract testing, interaction and deployment.
 - [Ethereum Studio](https://studio.ethereum.org/) A tool for developers who want to learn about building on Ethereum.
+- [One Click dApp](https://oneclickdapp.com/) Turn your smart contract into a customizable, easy-to-use dApp.
 
 ## Freelancing
 - [Everhour](https://everhour.com/) Track time on your tasks as a freelancer and have great integration with tools like Trello or Pivotal Tracker. 

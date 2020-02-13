@@ -28,6 +28,10 @@ This repo is a collection of links, projects and services that somehow are relev
 ## Freelancing
 - [Everhour](https://everhour.com/) Track time on your tasks as a freelancer and have great integration with tools like Trello or Pivotal Tracker. 
 
+## Reference
+
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics/blob/master/readme.md)
+
 ## Web Scraping
 - [Scrapy](https://scrapy.org/) An open source and collaborative framework for extracting the data you need from websites.
 - [Scrapinghub](https://scrapinghub.com/) Hosting for your Scrapy jobs, and more

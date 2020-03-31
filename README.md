@@ -28,6 +28,10 @@ This repo is a collection of links, projects and services that somehow are relev
 ## Freelancing
 - [Everhour](https://everhour.com/) Track time on your tasks as a freelancer and have great integration with tools like Trello or Pivotal Tracker. 
 
+## Payment
+- [Circle APIs](https://www.circle.com/en/developers) Useful APIs for using USDC, incl. payments, wallets, and marketplaces.
+- [StablePay](https://stablepay.io/) Accept cryptocurrencies as payment, and receive DAI - their [link builder](https://stablepay.io/) is very useful.
+
 ## Reference
 
 - [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics/blob/master/readme.md)

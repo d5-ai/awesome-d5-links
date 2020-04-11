@@ -17,6 +17,9 @@ This repo is a collection of links, projects and services that somehow are relev
 - [jq](https://stedolan.github.io/jq/) Lightweight and flexible command-line JSON processor.
 - [VisiData](http://visidata.org/) Interactive multitool for tabular data (e.g. CSVs).
 
+## Data Modeling
+- [QuickDBD](https://www.quickdatabasediagrams.com/) Draw database diagrams by typing.
+
 ## Data Quality
 - [Great Expectations](https://github.com/great-expectations/great_expectations) Always know what to expect from your data.
 

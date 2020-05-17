@@ -1,5 +1,5 @@
 # Awesome D5 Links
-This repo is a collection of links, projects and services that somehow are relevant/useful to members of [D5 - The Data Science DAO](http://d5.ai/).
+A collection of links that somehow are relevant and useful to members of [D5 - The Data Science DAO](http://d5.ai/).
 
 ## AI + Machine Learning
 - [Metaflow](https://metaflow.org/) Human-friendly Python library that helps scientists and engineers build and manage real-life data science projects.

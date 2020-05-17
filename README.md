@@ -27,6 +27,11 @@ This repo is a collection of links, projects and services that somehow are relev
 - [Brownie](https://eth-brownie.readthedocs.io/en/latest/) A Python framework for Ethereum smart contract testing, interaction and deployment.
 - [Ethereum Studio](https://studio.ethereum.org/) A tool for developers who want to learn about building on Ethereum.
 - [One Click dApp](https://oneclickdapp.com/) Turn your smart contract into a customizable, easy-to-use dApp.
+- [useWallet](https://github.com/aragon/use-wallet) All-in-one solution to connect a dapp to an Ethereum provider.
+
+## Ethereum Wallets
+- [Argent](https://www.argent.xyz/) Simple and secure smart wallet for crypto.
+- [Portis](https://portis.io/) Non-custodial blockchain wallet that makes apps simple for everyone
 
 ## Freelancing
 - [Everhour](https://everhour.com/) Track time on your tasks as a freelancer and have great integration with tools like Trello or Pivotal Tracker. 
